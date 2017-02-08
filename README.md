@@ -48,3 +48,17 @@ https://wordpress.org/plugins-wp/sportspress/
 
 ![enter image description here](https://s24.postimg.org/51lwhejp1/Stack_Edit_Editor_Google_Chrome_08_02_2017_16.png "How does it work")
 
+#Design
+
+**Preloader Design**
+
+[![animation.gif](https://s28.postimg.org/n2vhft4kt/animation.gif)](https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout)
+
+WaveSwipeRefreshLayout by recruit lifestyle
+
+**Main Design**
+
+[![image.gif](https://s28.postimg.org/luzq5dapp/image.gif)](https://github.com/Devlight/NavigationTabBar)
+
+NavigationTabBar by DevLight
+

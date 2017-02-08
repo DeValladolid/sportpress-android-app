@@ -73,3 +73,18 @@ NavigationTabBar by DevLight
  - Open GitHub repository
  - Update readme.md
 
+
+----------
+
+#That we have for now
+
+[![b65af34c-ed6f-11e6-8b46-c6c77e7d6197.gif](https://s29.postimg.org/twnwtcho7/b65af34c_ed6f_11e6_8b46_c6c77e7d6197.gif)](https://postimg.org/image/xg9uj5kdv/)
+
+For now we have only managed to make a base, which shows a list of events, that if the pulses enters a blank screen.
+The idea is that on an initial screen are the news of the blog, in another results ... so with all modules of SportPress.
+
+
+----------
+The "grace" of the app is that it is the perfect substitute for the website, that is, make a design more intuitive for the user.
+In the official app is not going to put publicity, but if the developer wants can put it without problem.
+

@@ -62,3 +62,14 @@ WaveSwipeRefreshLayout by recruit lifestyle
 
 NavigationTabBar by DevLight
 
+
+----------
+
+
+#Changelog
+
+> 0.1b:
+
+ - Open GitHub repository
+ - Update readme.md
+

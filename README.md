@@ -1,4 +1,4 @@
-# Welcome to SportPress android app!
+# Welcome to SportsPress android app!
 
 Actual version: 0.1b
 

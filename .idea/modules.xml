@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/wordpress-to-android-app.iml" filepath="$PROJECT_DIR$/wordpress-to-android-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sportpress-android-app.iml" filepath="$PROJECT_DIR$/sportpress-android-app.iml" />
     </modules>
   </component>
 </project>

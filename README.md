@@ -12,8 +12,8 @@ hey!, now we are going to explain what our project consists of.
 #Information
 
 > What data do we use
-- Wordpress Rest app v2
-- SportPress Rest Api
+- Wordpress Rest api v2
+- SportsPress Rest Api
 - Android Studio
 - GitHub Repositories for Using Impression Designs
 
@@ -32,9 +32,9 @@ We use Slack to communicate.
 We use the official channel of SportPress.
 
 https://sportspress.slack.com/signup
-What is SportPress
+What is SportsPress
 ------
-![SporPress logo](https://ps.w.org/sportspress/assets/icon-128x128.png)
+![SporsPress logo](https://ps.w.org/sportspress/assets/icon-128x128.png)
 
 SportsPress is an extendable all-in-one sports data plugin that helps sports clubs set up and manage a league or club site quickly and easily. "WordPress.org plugin info."
 

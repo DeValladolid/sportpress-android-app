@@ -1,3 +1,11 @@
+<br/>
+<p align="center">
+  <a href="#">
+      <img src ="https://i1.wp.com/plugins.svn.wordpress.org/!svn/bc/1405496/sportspress/assets/banner-772x250.png?strip=all&#038;ssl=1" alt="Devlight"/>
+  </a>
+</p>
+<br/>
+
 # Welcome to SportsPress android app!
 
 Actual version: 0.1b

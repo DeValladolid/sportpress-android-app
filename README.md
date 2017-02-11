@@ -80,6 +80,7 @@ NavigationTabBar by DevLight
 
  - Open GitHub repository
  - Update readme.md
+ - change icons: https://github.com/DeValladolid/sportspress-android-app/commit/f1e138ef02e90b0542d6792036fa9ace7e3afd54
 
 
 ----------

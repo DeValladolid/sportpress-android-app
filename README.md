@@ -75,6 +75,9 @@ NavigationTabBar by DevLight
 
 
 #Changelog
+> 0.1.1b:
+
+ - Full integration of app design. [933a6bc](https://github.com/DeValladolid/sportspress-android-app/commit/b8d1094dc7f1c0a1b073fb2408432ea0dbc083b6 "933a6bc")
 
 > 0.1b:
 

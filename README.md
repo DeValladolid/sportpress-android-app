@@ -8,7 +8,7 @@
 
 # Welcome to SportsPress android app!
 
-Actual version: 0.1b [![Build Status](https://travis-ci.org/DeValladolid/sportspress-android-app.svg?branch=master)](https://travis-ci.org/DeValladolid/sportspress-android-app)
+Actual version: 0.1.1b [![Build Status](https://travis-ci.org/DeValladolid/sportspress-android-app.svg?branch=master)](https://travis-ci.org/DeValladolid/sportspress-android-app)
 
 
 
